@@ -1,0 +1,24 @@
+.button {
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+	padding: 0 20px;
+	text-align: center;
+	text-decoration: none;
+	font: bold 12px/25px Arial, sans-serif;
+}
+
+.blgr {
+	color:#FFFFFF;
+	background:#00AA90;
+	text-decoration:none
+}
+
+.board {
+	height:85%;
+	margin: 0 auto;
+	padding: 0;
+	margin-left:15%;
+	margin-right:15%;
+	background-color: rgba(255,255,255,0.65);
+}
